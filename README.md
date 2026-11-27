@@ -23,7 +23,7 @@ An Arduino-controlled, 3D-printed prosthetic arm and hand assembly designed and 
 * **Supports:** No supports included for print.
 
 ## Getting Started
-1. **3D Print Parts:** Open `Falcon Wing Prosthetic Project Slice.3mf` in your slicer (Bambu Studio, PrusaSlicer, or Cura) and print the structural components.
+1. **3D Print Parts:** Open `Falcon Wing Prosthetic Project Slice.3mf` in your slicer and print the structural components.
 2. **Wire Electronics:** Follow wiring diagrams to connect the microcontroller, sensors, and servos.
 3. **Upload Firmware:** Open `FalconWingProstheticCode.ino` in the Arduino IDE, select your board and COM port, and click **Upload**.
 
